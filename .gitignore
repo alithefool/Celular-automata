@@ -1,0 +1,18 @@
+# Output files
+*.o
+*.out
+*.exe
+
+# Debug files
+*.dSYM/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build directory
+build/
+
+# System specific files
+.DS_Store
+.Thumbs.db
